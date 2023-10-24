@@ -417,6 +417,10 @@
 "Assets/Cainos/Third Party/Lucid Editor/Runtime/Attributes/ValidateInputAttribute.cs"
 "Assets/Cainos/Third Party/Lucid Editor/Runtime/Enum.cs"
 "Assets/Cainos/Third Party/Lucid Editor/Runtime/PropertyGroupAttribute.cs"
+"Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs"
+"Assets/Hero Knight - Pixel Art/Demo/DestroyEvent_HeroKnight.cs"
+"Assets/Hero Knight - Pixel Art/Demo/HeroKnight.cs"
+"Assets/Hero Knight - Pixel Art/Demo/Sensor_HeroKnight.cs"
 -langversion:9.0
 
 /deterministic
